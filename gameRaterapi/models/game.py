@@ -1,6 +1,4 @@
 from django.db import models
-from .category import Category
-from .game_category import GameCategory
 
 class Game(models.Model):
     title = models.CharField(max_length=50)
