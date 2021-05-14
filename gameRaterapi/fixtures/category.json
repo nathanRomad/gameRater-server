@@ -1,0 +1,72 @@
+[
+    {
+        "model": "gameRaterapi.category",
+        "pk": 1,
+        "fields": {
+            "name": "Strategy"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 2,
+        "fields": {
+            "name": "Role-playing game"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 3,
+        "fields": {
+            "name": "Dice"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 4,
+        "fields": {
+            "name": "Miniature"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 5,
+        "fields": {
+            "name": "Deck building"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 6,
+        "fields": {
+            "name": "Sports"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 7,
+        "fields": {
+            "name": "Adventure"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 8,
+        "fields": {
+            "name": "Cooperative"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 9,
+        "fields": {
+            "name": "Battle"
+        }
+    },
+    {
+        "model": "gameRaterapi.category",
+        "pk": 10,
+        "fields": {
+            "name": "Cardrest"
+        }
+    }
+]
